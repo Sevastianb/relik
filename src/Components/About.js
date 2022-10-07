@@ -12,7 +12,7 @@ export default function About() {
         <div>
           <div className="md:pr-10 mt-16 w-full h-80 lg:border-r border-white/10">
             <div className="flex mt-5" data-aos="fade-down">
-              <img src="/img/btn-arrow.png" className="h-2 mt-2" alt="" />
+              <img src="/img/btn-arrow.webp" className="h-2 mt-2" alt="" />
               <div className="ml-10">
                 <h1 className="font-bold">METAVERSE SOLUTION</h1>
                 <p className="text-sm text-gray-400">
@@ -25,7 +25,7 @@ export default function About() {
               data-aos="fade-down"
               data-aos-delay="300"
             >
-              <img src="/img/btn-arrow.png" className="h-2 mt-2" alt="" />
+              <img src="/img/btn-arrow.webp" className="h-2 mt-2" alt="" />
               <div className="ml-10">
                 <h1 className="font-bold">3D ARTWORK</h1>
                 <p className="text-sm text-gray-400">
@@ -38,7 +38,7 @@ export default function About() {
               data-aos="fade-down"
               data-aos-delay="500"
             >
-              <img src="/img/btn-arrow.png" className="h-2 mt-2" alt="" />
+              <img src="/img/btn-arrow.webp" className="h-2 mt-2" alt="" />
               <div className="ml-10">
                 <h1 className="font-bold">TURNKEY PROJECTS</h1>
                 <p className="text-sm text-gray-400">
@@ -62,7 +62,7 @@ export default function About() {
               assets for our and our partners projects. 
             </p>
           </div>
-          <img src="/img/about-img-1.png" alt="" className="h-80" />
+          <img src="/img/about-img-1.webp" alt="" className="h-80" />
         </div>
       </div>
     </div>

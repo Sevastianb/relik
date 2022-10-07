@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 export default function PopularCurrencies() {
   return (
@@ -21,7 +20,7 @@ export default function PopularCurrencies() {
               </div>
             </div>
             <Currency
-              img="/img/bnbLogo.png"
+              img="/img/bnbLogo.webp"
               name="BNB"
               shortName="BNB"
               lastprice="$267"
@@ -29,7 +28,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/btclogo.png"
+              img="/img/btclogo.webp"
               name="Bitcoin"
               shortName="BTC"
               lastprice="$267"
@@ -37,7 +36,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/ethlogo.svg"
+              img="/img/ethlogo.webp"
               name="Ethereum"
               shortName="ETH"
               lastprice="$267"
@@ -45,7 +44,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/galxelogo.png"
+              img="/img/galxelogo.webp"
               name="Galxe"
               shortName="GAl"
               lastprice="$267"
@@ -53,7 +52,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/greenMetaverselogo.png"
+              img="/img/greenMetaverselogo.webp"
               name="Green Metaverse Token"
               shortName="GMT"
               lastprice="$267"
@@ -61,7 +60,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/bnbLogo.png"
+              img="/img/bnbLogo.webp"
               name="BNB"
               shortName="BNB"
               lastprice="$267"
@@ -69,7 +68,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/btclogo.png"
+              img="/img/btclogo.webp"
               name="Bitcoin"
               shortName="BTC"
               lastprice="$267"
@@ -77,7 +76,7 @@ export default function PopularCurrencies() {
               market="$43,255M"
             />
             <Currency
-              img="/img/ethlogo.svg"
+              img="/img/ethlogo.webp"
               name="Ethereum"
               shortName="ETH"
               lastprice="$267"

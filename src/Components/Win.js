@@ -18,7 +18,7 @@ export default function Win() {
           </button>
         </div>
         <div className="my-10 md:my-0 flex justify-center items-center">
-          <img src="/img/creator1.png" className="h-80 lg:-mt-16" alt="" />
+          <img src="/img/creator1.webp" className="h-80 lg:-mt-16" alt="" />
         </div>
         <div>
           CATCH US THERE

@@ -13,8 +13,8 @@ export default function Clients() {
             AWESOME PEOPLE WE WORKED WITH
           </h1>
           <div className="grid grid-cols-2 lg:grid-cols-3 gap-3">
-            <Card link="https://frankynft.com/" img="/img/frankylogo.png" />
-            <Card link="https://alienbees.club/" img="/img/alienbeeslogo.png" />
+            <Card link="https://frankynft.com/" img="/img/frankylogo.webp" />
+            <Card link="https://alienbees.club/" img="/img/alienbeeslogo.webp" />
             <Card link="https://sl2.capital/" img="/img/logo.svg" />
             <Card link="https://www.caduceus.foundation/" img="/img/logocad.png" />
             <Card link="https://adventuresofb11.com/#/" img="/img/logob11.png" />
