@@ -16,9 +16,9 @@ export default function Clients() {
             <Card link="https://frankynft.com/" img="/img/frankylogo.webp" />
             <Card link="https://alienbees.club/" img="/img/alienbeeslogo.webp" />
             <Card link="https://sl2.capital/" img="/img/logo.svg" />
-            <Card link="https://www.caduceus.foundation/" img="/img/logocad.png" />
-            <Card link="https://adventuresofb11.com/#/" img="/img/logob11.png" />
-            <Card link="https://www.pollinate.co.uk/es/" img="/img/logopolinate.png" />
+            <Card link="https://www.caduceus.foundation/" img="/img/logocad.webp" />
+            <Card link="https://adventuresofb11.com/#/" img="/img/logob11.webp" />
+            <Card link="https://www.pollinate.co.uk/es/" img="/img/logopolinate.webp" />
           </div>
         </div>
       </div>

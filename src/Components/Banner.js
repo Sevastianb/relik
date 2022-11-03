@@ -29,7 +29,7 @@ export default function Banner() {
               smooth={true}
               offset={50}
               duration={700}
-              className="mt-5 cursor-pointer w-36 bg-pink-100 text-purple-900 transition-all px-6 py-3 rounded-full hover:bg-gray-200 hover:shadow-xl hover:shadow-gray-800"
+              className="mt-5 cursor-pointer w-36 bg-purple-500 text-white transition-all px-6 py-3 rounded-full hover:bg-purple-400 hover:shadow-xl hover:shadow-gray-800"
             >
               Learn More
             </Link>
@@ -41,13 +41,13 @@ export default function Banner() {
           >
             <div className="header-scene" id="header-scene">
               <div className="header-scene__item" data-depth="0.1">
-                <img src="img/header-scene-1.png" alt="header-scene-1" />
+                <img src="img/header-scene-1.webp" alt="header-scene-1" />
               </div>
               <div className="header-scene__item">
-                <img src="img/header-scene-2.png" alt="header-scene-2" />
+                <img src="img/header-scene-2.webp" alt="header-scene-2" />
               </div>
               <div className="header-scene__item">
-                <img src="img/header-scene-3.png" alt="header-scene-3" />
+                <img src="img/header-scene-3.webp" alt="header-scene-3" />
               </div>
               <div class="header-scene__item">
                 <canvas id="smoke"></canvas>

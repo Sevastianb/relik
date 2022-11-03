@@ -25,149 +25,149 @@ export default function ReferalProgram() {
           <div className="grid md:grid-cols-2 gap-5 text-center mt-10">
             <div class="container flex items-center relative overflow-hidden rounded-md">
               <img
-                src="/img/referal-image1.jpg"
+                src="/img/referal-image1.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image2.jpg"
+                src="/img/referal-image2.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image3.jpg"
+                src="/img/referal-image3.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image4.jpg"
+                src="/img/referal-image4.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image5.jpg"
+                src="/img/referal-image5.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image6.jpg"
+                src="/img/referal-image6.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image7.jpg"
+                src="/img/referal-image7.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image8.jpg"
+                src="/img/referal-image8.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image9.jpg"
+                src="/img/referal-image9.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image10.jpg"
+                src="/img/referal-image10.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image11.jpg"
+                src="/img/referal-image11.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image12.jpg"
+                src="/img/referal-image12.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image13.jpg"
+                src="/img/referal-image13.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image14.jpg"
+                src="/img/referal-image14.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-image15.jpg"
+                src="/img/referal-image15.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
             </div>
             <div class="container flex items-center relative overflow-hidden rounded-md">
               <img
-                src="/img/referal-img1.jpg"
+                src="/img/referal-img1.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img2.jpg"
+                src="/img/referal-img2.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img3.jpg"
+                src="/img/referal-img3.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img4.jpg"
+                src="/img/referal-img4.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img5.jpg"
+                src="/img/referal-img5.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img6.jpg"
+                src="/img/referal-img6.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img7.jpg"
+                src="/img/referal-img7.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img8.jpg"
+                src="/img/referal-img8.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img9.jpg"
+                src="/img/referal-img9.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img10.jpg"
+                src="/img/referal-img10.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img11.jpg"
+                src="/img/referal-img11.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img12.jpg"
+                src="/img/referal-img12.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img13.jpg"
+                src="/img/referal-img13.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
               <img
-                src="/img/referal-img14.jpg"
+                src="/img/referal-img14.webp"
                 className="w-full rounded-lg mr-5"
                 alt=""
               />
@@ -176,21 +176,21 @@ export default function ReferalProgram() {
         </div>
         <div className="hidden lg:flex justify-center lg:flex-row relative md:ml-20">
           <img
-            src="/img/refs-scene.png"
+            src="/img/refs-scene.webp"
             alt=""
             className="h-full mt-16"
             data-aos="fade-up"
             data-aos-delay="1000"
           />
           <img
-            src="/img/refs-scene-3.png"
+            src="/img/refs-scene-3.webp"
             alt=""
             className="absolute h-full mt-16"
             data-aos-delay="2000"
             data-aos="fade-left"
           />
           <img
-            src="/img/refs-scene-4.png"
+            src="/img/refs-scene-4.webp"
             alt=""
             className="absolute h-full mt-16 -ml-5"
             data-aos-delay="2000"

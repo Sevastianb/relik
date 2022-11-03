@@ -5,9 +5,9 @@ export default function Work() {
     <div className="mt-20 flex justify-center w-full" id="work">
       <div className="grid md:grid-cols-3 lg:grid-cols-4 gap-5 w-10/12">
         <Card title="Product Name" img="/img/img1.webp" quantity="1/200000" />
-        <Card title="Product Name" img="/img/img2.jpg" quantity="1/200000" />
-        <Card title="Product Name" img="/img/img3.jpg" quantity="1/200000" />
-        <Card title="Product Name" img="/img/img4.jpg" quantity="1/200000" />
+        <Card title="Product Name" img="/img/img2.webp" quantity="1/200000" />
+        <Card title="Product Name" img="/img/img3.webp" quantity="1/200000" />
+        <Card title="Product Name" img="/img/img4.webp" quantity="1/200000" />
         <VideoCard
           title="Product Name"
           video="/img/v1.mp4"
